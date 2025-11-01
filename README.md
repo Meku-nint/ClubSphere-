@@ -1,9 +1,9 @@
-ClubSphere
+🌐 ClubSphere
 The Smart Way to Manage Clubs, Members, and Events
 
 ClubSphere is an all-in-one club management system designed to simplify how organizations handle membership, communication, and events. Whether it’s a student club, sports team, or professional network — ClubSphere brings people, data, and activities together in one clean platform.
 
- Features
+Features
 
 Member Management – Add, update, and track members with ease.
 
@@ -17,7 +17,7 @@ Analytics Dashboard – Get insights into member engagement and club activity.
 
 Responsive Design – Works seamlessly across desktop, tablet, and mobile devices.
 
-Tech Stack
+ Tech Stack
 Frontend: Next.js / React.js / Tailwind CSS
 
 Backend: NestJS / Node.js
@@ -28,14 +28,15 @@ Authentication: JWT / OAuth
 
 Hosting: Vercel / Render / AWS
 
-🧩 Architecture Overview
+ Architecture Overview
 
-Frontend (Next.js) – Handles UI and user interactions.
+Frontend (Next.js) – Handles UI, user interactions, and API calls.
 
-Backend (NestJS) – RESTful API for managing club data and authentication.
+Backend (NestJS) – RESTful API for managing club data, authentication, and business logic.
 
-Database Layer – Stores member details, events, and communication logs.
+Database Layer – Stores member details, events, announcements, and logs.
 
-Authentication Middleware – Ensures secure access across user roles.
-       Clone the repository
-git clone https://github.com/Meku-nint/clubsphere-.git
+Authentication Middleware – Ensures secure access based on user roles.
+
+1️⃣ Clone the repository
+git clone https://github.com/Meku-nint/clubsphere.git
