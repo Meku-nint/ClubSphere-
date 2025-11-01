@@ -37,8 +37,5 @@ Backend (NestJS) – RESTful API for managing club data and authentication.
 Database Layer – Stores member details, events, and communication logs.
 
 Authentication Middleware – Ensures secure access across user roles.
-
-🧑‍💻 Getting Started
-1️⃣ Clone the repository
+       Clone the repository
 git clone https://github.com/Meku-nint/clubsphere-.git
-cd clubsphere
