@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+ClubSphere
+The Smart Way to Manage Clubs, Members, and Events
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ClubSphere is an all-in-one club management system designed to simplify how organizations handle membership, communication, and events. Whether it’s a student club, sports team, or professional network — ClubSphere brings people, data, and activities together in one clean platform.
 
-## Available Scripts
+ Features
 
-In the project directory, you can run:
+Member Management – Add, update, and track members with ease.
 
-### `npm start`
+Event Management – Create and manage club events, registrations, and attendance.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Announcements – Share updates and news instantly with all members.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Roles & Permissions – Secure access control for admins, officers, and members.
 
-### `npm test`
+Analytics Dashboard – Get insights into member engagement and club activity.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Responsive Design – Works seamlessly across desktop, tablet, and mobile devices.
 
-### `npm run build`
+Tech Stack
+Frontend: Next.js / React.js / Tailwind CSS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Backend: NestJS / Node.js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Database: MongoDB / PostgreSQL
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Authentication: JWT / OAuth
 
-### `npm run eject`
+Hosting: Vercel / Render / AWS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🧩 Architecture Overview
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Frontend (Next.js) – Handles UI and user interactions.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Backend (NestJS) – RESTful API for managing club data and authentication.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Database Layer – Stores member details, events, and communication logs.
 
-## Learn More
+Authentication Middleware – Ensures secure access across user roles.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🧑‍💻 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/Meku-nint/clubsphere.git
+cd clubsphere
