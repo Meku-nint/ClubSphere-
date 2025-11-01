@@ -40,5 +40,5 @@ Authentication Middleware – Ensures secure access across user roles.
 
 🧑‍💻 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/Meku-nint/clubsphere.git
+git clone https://github.com/Meku-nint/clubsphere-.git
 cd clubsphere
