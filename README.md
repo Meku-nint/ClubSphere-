@@ -39,4 +39,4 @@ Database Layer – Stores member details, events, announcements, and logs.
 Authentication Middleware – Ensures secure access based on user roles.
 
 1️⃣ Clone the repository
-git clone https://github.com/Meku-nint/clubsphere.git
+git clone https://github.com/Meku-nint/Clubsphere-.git
