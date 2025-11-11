@@ -17,22 +17,13 @@ Analytics Dashboard – Get insights into member engagement and club activity.
 
 Responsive Design – Works seamlessly across desktop, tablet, and mobile devices.
 
-Tech Stack
-Frontend: Next.js / React.js / Tailwind CSS
 
-Backend: NestJS / Node.js
-
-Database: MongoDB / PostgreSQL
-
-Authentication: JWT / OAuth
-
-Hosting: Vercel / Render / AWS
 
  Architecture Overview
 
-Frontend (Next.js) – Handles UI, user interactions, and API calls.
+Frontend (react.js) – Handles UI, user interactions, and API calls.
 
-Backend (NestJS) – RESTful API for managing club data, authentication, and business logic.
+Backend (Express.js) – RESTful API for managing club data, authentication, and business logic.
 
 Database Layer – Stores member details, events, announcements, and logs.
 
