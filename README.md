@@ -17,7 +17,7 @@ Analytics Dashboard – Get insights into member engagement and club activity.
 
 Responsive Design – Works seamlessly across desktop, tablet, and mobile devices.
 
- Tech Stack
+Tech Stack
 Frontend: Next.js / React.js / Tailwind CSS
 
 Backend: NestJS / Node.js
